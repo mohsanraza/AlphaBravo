@@ -1,6 +1,3 @@
-//23.11.09 by Konstantin Sidorenko
-
-//the class contains references to unresolved types
 
 using Aspose.Layout.Core.CellMetrics;
 
